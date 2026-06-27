@@ -1,0 +1,8 @@
+MASTER CALCULATOR PRO
+
+Developer:
+Daniel Rono
+
+Style:
+Professional Scientific Calculator
+TI-89 Titanium inspired theme

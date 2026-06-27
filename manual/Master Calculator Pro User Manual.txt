@@ -1,0 +1,27 @@
+MASTER CALCULATOR PRO USER MANUAL
+
+Developer: Daniel Rono
+
+Sections:
+- Basic arithmetic
+- Scientific calculations
+- Trigonometry
+- Logarithms
+- Powers and roots
+- Algebra solving
+- Matrices
+- Vectors
+- Geometry
+- Statistics
+- t-Test
+- ANOVA
+- Chi-Square
+- Mann Whitney U
+- Kruskal Wallis
+- Probability
+- Finance
+- Unit conversion
+- Graphing
+- AI question calculator
+- PDF export
+- TI-89 style keyboard guide
